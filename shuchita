@@ -1,5 +1,6 @@
 Hey! Shuchita this side!
 This would be the second commit
+<<<<<<< HEAD
 This is just for understanding..!! 3 rd commit
 This is local commit using vs code.
 This is another try.
@@ -7,3 +8,4 @@ Try once again
 adding one more line for checking
 this is a check
 This is latest commit
+This is a trail commit 1
